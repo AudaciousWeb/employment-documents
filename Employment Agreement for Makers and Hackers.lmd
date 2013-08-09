@@ -1,26 +1,30 @@
 ---
 
 # Mixins
-choice_of_law:
-effective_date:
-employee_title:
-party1_address:
-party1_full:
-party1_reg:
-party1_representative:
-party1_type:
-party2_address:
-party2_full:
+choice_of_law: ""
+effective_date: ""
+employee_title: ""
+party1_address: ""
+party1_full: ""
+party1_reg: ""
+party1_representative: ""
+party1_type: ""
+party2_address: ""
+party2_full: ""
 
 # Optional Clauses
-time_full:
-time_part:
+time_full: ""
+time_part: ""
 
 # Structured Headers
-level-1:   "# Article 1."
-level-2:   "*Section 1."
-level-3:   (a)
-no-indent: l., ll., lll.
+level-1: "# Article 1."
+level-2: "*Section 1."
+level-3: "(a)"
+
+# Properties
+no-indent: "l., ll., lll."
+no-reset: "l."
+level-style: "l."
 
 ---
 
