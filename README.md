@@ -1,4 +1,4 @@
-# About
+# About this repo
 
 This is a simple repository of employment related documents. The files should be self explanatory.
 

@@ -9,7 +9,7 @@ The contract needs to cover the following (Art. 24.1.):
 - [ ] Wages and fees agreed upon;
 - [ ] Detailed job description of the employee;
 - [ ] Date by which work starts and ends;
-- [ ] If there is a probation period, it shall be as approved by this Act;
+- [ ] Probationary Period;
 - [ ] Eid Bonus;
 - [ ] Overtimes and its payments;
 - [ ] Emergency procedures, security, health, and breaks of employees;
@@ -28,7 +28,7 @@ The contract needs to cover the following (Art. 24.1.):
 - [ ] Daily Hours of work: < 8. Art. 8.1;
 - [ ] Weekly Hours of work: < 48. Art. 8.2;
 - [ ] Public Holidays. Art. 12;
-- [ ] Annual Leave > one month. Art. 13.1; 
+- [ ] Annual Leave > one month. Art. 13.1;
 - [ ] Maternity > 16 weeks. Art. 15.1.;
 - [ ] Eid Bonus > 15 days. Art. 21;
 - [ ] End of Service Compensation > 1 month / year worked. Art. 22.1; and
